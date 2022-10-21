@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/DrGolem/go-ogg/ogg"
+	"github.com/drgolem/go-ogg/ogg"
 )
 
 func main() {
